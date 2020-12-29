@@ -4,8 +4,8 @@ main:
     url: /der-verein
   - title: "News"
     url: /news
-  - title: "Aktivitäten"
-    url: /aktivitaeten
+  - title: "Vereinsleben"
+    url: /vereinsleben
   - title: "Mitglied werden"
     url: https://mitgliedsantrag.htfev.de
 
@@ -21,11 +21,11 @@ verein:
       - title: "Rennlizenz (FAQ)"
         url: /rennlizenz-faq
 
-aktivitaeten:
-  - title: "Aktivitäten"
+vereinsleben:
+  - title: "Vereinsleben"
     children:
       - title: "Überblick"
-        url: /aktivitaeten
+        url: /vereinsleben
       - title: "Trainings"
         url: /trainings
       - title: "Kurse"
