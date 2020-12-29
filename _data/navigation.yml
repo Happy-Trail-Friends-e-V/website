@@ -24,7 +24,11 @@ verein:
 aktivitaeten:
   - title: "Aktivitäten"
     children:
-      - title: "Training"
-        url: /training
+      - title: "Überblick"
+        url: /aktivitaeten
+      - title: "Trainings"
+        url: /trainings
       - title: "Kurse"
         url: /kurse
+      - title: "Events"
+        url: /events
