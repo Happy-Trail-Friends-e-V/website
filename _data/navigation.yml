@@ -1,12 +1,30 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Der Verein"
+    url: /der-verein
+  - title: "News"
+    url: /news
+  - title: "Aktivitäten"
+    url: /aktivitaeten
+  - title: "Mitglied werden"
+    url: https://mitgliedsantrag.htfev.de
+
+verein:
+  - title: "Der Verein"
+    children:
+      - title: "Historie"
+        url: /der-verein
+      - title: "Mitglied werden"
+        url: https://mitgliedsantrag.htfev.de
+      - title: "Downloads"
+        url: /downloads
+      - title: "Rennlizenz (FAQ)"
+        url: /rennlizenz-faq
+
+aktivitaeten:
+  - title: "Aktivitäten"
+    children:
+      - title: "Training"
+        url: /training
+      - title: "Kurse"
+        url: /kurse

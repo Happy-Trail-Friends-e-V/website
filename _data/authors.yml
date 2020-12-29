@@ -1,0 +1,49 @@
+Thorsten Rudolph:
+  name    : "Thorsten Rudolph"
+  bio     : ""
+  avatar  : "/assets/images/people/thorsten.jpg"
+  links   :
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:thorsten@htfev.de"
+
+Constantin Tillmann:
+  name    : "Constantin Tillmann"
+  bio     : ""
+  avatar  : "/assets/images/people/constantin.jpg"
+  links   :
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:constantin@htfev.de"
+
+Jens Roos:
+  name    : "Jens Roos"
+  bio     : ""
+  avatar  : "/assets/images/people/jens.jpg"
+  links   :
+    - label: "E-Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jens@htfev.de"
+
+Happy Trail Friends e.V.:
+  name             : "Happy Trail Friends e.V."
+  avatar           : "/assets/images/logo.jpeg"
+  bio              : "Mountainbike Verein aus Witten"
+  location         : "Witten, DE"
+  email            : "info@htfev.de"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://happytrailfriends.de"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/HappyTrailFriends"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Happy-Trail-Friends-e-V"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/happy_trail_friends/"
