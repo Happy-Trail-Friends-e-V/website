@@ -3,24 +3,23 @@ title: "Happy Trail Friends"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/teaser.jpg
-  caption: "(c) Thorsten Rudolph"
+  image: /assets/images/teaser_test.jpg
+  caption: "(c) [Antony Sklivagkos](https://unsplash.com/@antoskli)"
+
 feature_row:
   - image_path: /assets/images/features/club.jpg
     image_caption: "(c) [Sam Marx](https://unsplash.com/@samx)"
     alt: "Der Verein"
     title: "Der Verein"
     url: "/der-verein"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Erfahre mehr über den Verein und seine Historie."
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
   - image_path: /assets/images/features/activities.jpg
     image_caption: "(c) [Sam Marx](https://unsplash.com/@samx)"
     alt: "Vereinsleben"
     title: "Vereinsleben"
-    excerpt: "In diesem Bereich werden Sie stets über Aktivitäten des Vereins infomiert."
+    excerpt: "Informiere dich auf dieser Seite über Events, Kurse und das Trainingsangebot des Vereins."
     url: "/vereinsleben"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
@@ -28,7 +27,7 @@ feature_row:
     image_caption: "(c) [Oli Dale](https://unsplash.com/@olidale)"
     alt: "Mitglied werden"
     title: "Mitglied werden"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Du willst Mitglied werden? Fülle einfach das folgende Formular aus!"
     url: "https://mitgliedsantrag.htfev.de/"
     btn_label: "Mitglied werden"
     btn_class: "btn--primary"
