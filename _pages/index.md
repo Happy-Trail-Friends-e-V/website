@@ -18,10 +18,10 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/features/activities.jpg
     image_caption: "(c) [Sam Marx](https://unsplash.com/@samx)"
-    alt: "Aktivitäten"
-    title: "Aktivitäten"
+    alt: "Vereinsleben"
+    title: "Vereinsleben"
     excerpt: "In diesem Bereich werden Sie stets über Aktivitäten des Vereins infomiert."
-    url: "/activities"
+    url: "/vereinsleben"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
   - image_path: /assets/images/features/application.jpg
