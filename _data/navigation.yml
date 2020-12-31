@@ -2,12 +2,12 @@
 main:
   - title: "Der Verein"
     url: /der-verein
-  - title: "News"
-    url: /news
   - title: "Vereinsleben"
     url: /vereinsleben
   - title: "Mitglied werden"
     url: https://mitgliedsantrag.htfev.de
+  - title: "Blog"
+    url: /blog
 
 verein:
   - title: "Der Verein"
