@@ -5,7 +5,7 @@ main:
   - title: "Vereinsleben"
     url: /vereinsleben
   - title: "Mitglied werden"
-    url: https://mitgliedsantrag.htfev.de
+    url: /mitglied-werden
   - title: "Blog"
     url: /blog
 
@@ -15,7 +15,7 @@ verein:
       - title: "Historie"
         url: /der-verein
       - title: "Mitglied werden"
-        url: https://mitgliedsantrag.htfev.de
+        url: /mitglied-werden
       - title: "Downloads"
         url: /downloads
       - title: "Rennlizenz (FAQ)"
