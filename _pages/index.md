@@ -3,20 +3,17 @@ title: "Happy Trail Friends"
 layout: splash_home
 permalink: /
 header:
-  image: /assets/images/teaser_test.jpg
-  caption: "(c) [Antony Sklivagkos](https://unsplash.com/@antoskli)"
+  image: /assets/images/teaser.jpg
 
 feature_row:
   - image_path: /assets/images/features/club.jpg
-    image_caption: "(c) [Sam Marx](https://unsplash.com/@samx)"
     alt: "Der Verein"
     title: "Der Verein"
     url: "/der-verein"
-    excerpt: "Erfahre mehr über den Verein und seine Historie."
+    excerpt: "Erfahre mehr über den Verein, seine Historie und seine Ziele."
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
   - image_path: /assets/images/features/activities.jpg
-    image_caption: "(c) [Sam Marx](https://unsplash.com/@samx)"
     alt: "Vereinsleben"
     title: "Vereinsleben"
     excerpt: "Informiere dich auf dieser Seite über Events, Kurse und das Trainingsangebot des Vereins."
@@ -24,7 +21,6 @@ feature_row:
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
   - image_path: /assets/images/features/application.jpg
-    image_caption: "(c) [Oli Dale](https://unsplash.com/@olidale)"
     alt: "Mitglied werden"
     title: "Mitglied werden"
     excerpt: "Du willst Mitglied werden? Mehr Informationen über uns findest du hier!"
