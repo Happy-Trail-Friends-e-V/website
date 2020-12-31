@@ -25,7 +25,7 @@ feature_row:
     title: "Mitglied werden"
     excerpt: "Du willst Mitglied werden? Mehr Informationen über uns findest du hier!"
     url: /mitglied-werden
-    btn_label: "Mitglied werden"
+    btn_label: "Mehr ..."
     btn_class: "btn--primary"
 ---
 
