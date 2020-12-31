@@ -10,6 +10,6 @@ sidebar:
 
 Die Happy Trail Friends e.V. bieten im Rahmen des Vereinslebens unterschiedliche Aktivitäten an. Für mehr Informationen folge den untenstehenden Links:
 
-* Für unser Trainingsangebot: [Trainings](/trainings)
-* Für unser Kursangebot: [Kurse](/kurse)
-* Für unser Eventangebot: [Events](/events)
+* [Trainings](/trainings)
+* [Kurse](/kurse)
+* [Events](/events)
