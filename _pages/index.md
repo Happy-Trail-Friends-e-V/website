@@ -1,6 +1,6 @@
 ---
 title: "Happy Trail Friends"
-layout: splash
+layout: splash_home
 permalink: /
 header:
   image: /assets/images/teaser_test.jpg
