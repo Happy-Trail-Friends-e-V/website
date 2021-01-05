@@ -13,7 +13,8 @@ author_profile: true
 3. Du hast die Möglichkeit aktiv und legal neue Trails zu bauen!
 4. Du bekommst einen Versicherungsschutz, falls dir bei der Ausübung deines Lieblingssports etwas zustößt.
 5. Du kannst Rennlizenzen über unseren Verein beziehen und durch diesen auch gefördert werden.
-6. Du lernst viele spannende Leute kennen. Von Hobbyfahrer\*innen bis zu Lizenzfahrer\*innen ist bei uns alles vertreten.
+6. Ein Tag Winterberg bezahlen oder ein Jahr einen Verein und lokale Trails unterstützen? Da ist die Wahl doch klar!
+7. Du lernst viele spannende Leute kennen. Von Hobbyfahrer\*innen bis zu Lizenzfahrer\*innen ist bei uns alles vertreten.
 
 Du hast Interesse und möchtest unserem Verein beitreten?
 <a href="https://mitgliedsantrag.htfev.de" class="btn btn--primary">Mitglied werden!</a>
