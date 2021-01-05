@@ -29,4 +29,5 @@ Ein Verein hat den großen Vorteil, dass die Ansprache an politische Vertreter e
 Unterstütze uns durch deine [Mitgliedschaft](/mitglied-werden) und werde aktiver Teil einer bunten und positiv verrückten Truppe. Offen für alle, genderneutral und für jedes Alter geeignet!
 
 Du hast Interesse und möchtest unserem Verein beitreten?
-<a href="/mitglied-werden" class="btn btn--primary">Mitglied werden!</a>
+
+<a href="/mitglied-werden" class="btn btn--primary">7 Gründe Mitglied zu werden!</a>
