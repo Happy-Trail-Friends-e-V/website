@@ -6,6 +6,13 @@ author: Happy Trail Friends e.V.
 author_profile: true
 sidebar:
     nav: "vereinsleben"
+tags:
+  - events
+  - kurse
+  - trainings
+  - gelände
+  - spot
+  - jugend
 ---
 
 Die Happy Trail Friends e.V. bieten im Rahmen des Vereinslebens unterschiedliche Aktivitäten an. Für mehr Informationen folge den untenstehenden Links:

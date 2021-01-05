@@ -6,6 +6,11 @@ author: Happy Trail Friends e.V.
 author_profile: true
 sidebar:
     nav: "verein"
+tags:
+  - downloads
+  - satzung
+  - jugendvereinbarung
+  - beitragsordnung
 ---
 
 ## Satzung und Ordnungen

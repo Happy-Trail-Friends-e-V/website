@@ -4,6 +4,16 @@ layout: single
 permalink: /mitglied-werden
 author: Happy Trail Friends e.V.
 author_profile: true
+tags:
+  - events
+  - kurse
+  - trainings
+  - gelände
+  - spot
+  - jugend
+  - lobbyarbeit
+  - mitglied werden
+  - mitgliedschaft
 ---
 
 ### Es gibt mindestens 6 gute Gründe, Mitglied zu werden!

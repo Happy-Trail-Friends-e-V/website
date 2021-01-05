@@ -6,6 +6,11 @@ author: Happy Trail Friends e.V.
 author_profile: true
 sidebar:
     nav: "vereinsleben"
+tags:
+  - kurse
+  - gelände
+  - spot
+  - jugend
 ---
 
 Aufgrund der Covid-19-Pandemie kann der Verein zurzeit kein Kursangebot bereitstellen. Sobald wie möglich werden wir hier weitere Informationen veröffentlichen.

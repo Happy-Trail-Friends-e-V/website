@@ -6,6 +6,13 @@ author: Happy Trail Friends e.V.
 author_profile: true
 sidebar:
     nav: "verein"
+tags:
+  - rennlizenz
+  - faq
+  - jugend
+  - radsportlizenz
+  - bund deutscher radfahrer
+  - brd
 ---
 
 Eine Rennlizenz, auch Lizenz oder Radsportlizenz, ist im Radsport die Erlaubnis, an bestimmten Radrennen teilzunehmen und gleichzeitig Bestätigung, dass der Inhaber sich verpflichtet, die Reglements des jeweiligen Verbandes zu beachten. In Deutschland wird die Rennlizenz durch den Bund Deutscher Radfahrer (BDR) ausgestellt, die Voraussetzung ist die Zugehörigkeit zu einem Radsportverein bzw. einem Verein mit Radsportabteilung, der Mitglied des BDR ist.

@@ -6,6 +6,14 @@ author: Happy Trail Friends e.V.
 author_profile: true
 sidebar:
     nav: "verein"
+tags:
+  - der verein
+  - witten
+  - gelände
+  - jugend
+  - historie
+  - mitgliedschaft
+  - lobbyarbeit
 ---
 
 Unser Verein bietet eine Plattform für alle, die dem wunderbaren Hobby Mountainbiken verfallen sind. Dabei unterscheiden wir natürlich nicht zwischen den zahlreichen Variationen. Bei uns sind alle herzlich willkommen, ob Downhiller, Slopestyler, Enduristen oder egal was eure Favoriten sind. Und viele von uns sind ja mittlerweile auch mehrgleisig unterwegs und bolzen zwischendurch Kondition auf dem Gravelbike oder der Rennmaschine. Wir brauchen und wir machen keine Unterschiede!
