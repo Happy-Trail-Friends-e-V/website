@@ -85,7 +85,6 @@ social:
     - "https://www.facebook.com/HappyTrailFriends"
     - "https://www.instagram.com/happy_trail_friends/"
     - "https://happytrailfriends.de"
-    - "https://github.com/Happy-Trail-Friends-e-V"
 
 # Analytics
 analytics:
@@ -112,9 +111,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/HappyTrailFriends"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Happy-Trail-Friends-e-V"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/Happy-Trail-Friends-e-V"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/happy_trail_friends/"
