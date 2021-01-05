@@ -14,6 +14,7 @@ tags:
   - lobbyarbeit
   - mitglied werden
   - mitgliedschaft
+  - info
 ---
 
 ### Es gibt mindestens 6 gute Gründe, Mitglied zu werden!
@@ -28,5 +29,7 @@ tags:
 
 Du hast Interesse und möchtest unserem Verein beitreten?
 <a href="https://mitgliedsantrag.htfev.de" class="btn btn--primary">Mitglied werden!</a>
+
+Du hast noch ein paar Fragen und möchtest uns kontaktieren? <a href="/kontakt" class="btn btn--primary">Kontaktiere uns!</a>
 
 *Die Satzung, sowie die Beitragsordnung und Jugendvereinbarung findest du im Bereich [Downloads](/downloads).*
