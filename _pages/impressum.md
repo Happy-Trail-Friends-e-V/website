@@ -12,7 +12,7 @@ E-Mail: [vorstand@htfev.de](mailto:vorstand@htfev.de)
 
 Vorstand:
 * **1. Vorsitzender:** Thorsten Rudolph
-* **2. Vorsitzender:** Constantin Tillman
+* **2. Vorsitzender:** Constantin Tillmann
 * **Schatzmeister:** Jens Roos
 
 Inhaltlich verantwortlich
