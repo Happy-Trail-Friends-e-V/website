@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Happy Trail Friends e.V."
 description              : "Internetpräsenz der Happy Trail Friends e.V."
-url                      : "https://happytrailfriends.de"
+url                      : "https://www.happytrailfriends.de"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Happy-Trail-Friends-e-V/website"
 teaser                   : "/assets/images/teaser_500x327.jpg"
