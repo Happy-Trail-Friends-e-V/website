@@ -15,8 +15,4 @@ tags:
   - jugend
 ---
 
-Die Happy Trail Friends e.V. bieten im Rahmen des Vereinslebens unterschiedliche Aktivitäten an. Für mehr Informationen folge den untenstehenden Links:
-
-* [Trainings](/trainings)
-* [Kurse](/kurse)
-* [Events](/events)
+Die Happy Trail Friends e.V. werden im Rahmen des Vereinslebens zukünftig verschiedene Angebote bereitstellen. Schaut hier gerne öfter mal vorbei oder folgt uns auf unseren Social-Media-Kanälen für Neuigkeiten!
