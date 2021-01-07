@@ -16,6 +16,6 @@ Unser Verein befindet sich gerade im Relaunch, wobei uns Corona nicht gerade hil
 
 Trotzdem gab es bei einem wichtigen Thema keine Zeit zu vergeuden, nämlich einem fehlenden Pumptrack und Dirtpark in Witten. Hierzu haben wir nun eine Petition gestartet, bei der wir dringend eure Unterstützung brauchen!
 
-Also, besucht die Seite https://weact.campact.de/p/ptwitten und stimmt für die Zukunft vieler Kinder, Enkelkinder, Familien und Biker*innen!
+Also, besucht die Seite [https://weact.campact.de/p/ptwitten](https://weact.campact.de/p/ptwitten) und stimmt für die Zukunft vieler Kinder, Enkelkinder, Familien und Biker*innen!
 
 Danke!
