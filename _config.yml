@@ -20,7 +20,7 @@ title                    : "Happy Trail Friends e.V."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Happy Trail Friends e.V."
-description              : "Internetpräsenz der Happy Trail Friends e.V."
+description              : "Mountainbike Verein aus Witten für Jugendförderung, Vereinsleben und Lobbyarbeit."
 url                      : "https://www.happytrailfriends.de"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Happy-Trail-Friends-e-V/website"
