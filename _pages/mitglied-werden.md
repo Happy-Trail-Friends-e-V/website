@@ -27,7 +27,8 @@ tags:
 6. Ein Tag Winterberg Bikepark (34,50€ täglich) bezahlen oder ein Jahr einen Verein (45€ jährlich) zu unterstützen? Da ist die Wahl doch klar!
 7. Du lernst viele spannende Leute kennen. Von Hobbyfahrer\*innen bis zu Lizenzfahrer\*innen ist bei uns alles vertreten.
 
-Du hast Interesse und möchtest unserem Verein beitreten? In dem folgenden Artikel findest du mehr Infos wie du bei uns Mitglied werden kannst: [Zwischenstand: Mitglied werden](/zwischenstand-mitglied-werden)
+Du hast Interesse und möchtest unserem Verein beitreten?
+<a href="https://mitgliedsantrag.htfev.de" class="btn btn--primary">Mitglied werden!</a>
 
 Du hast noch Fragen? Die beantworten wir gerne: <a href="/kontakt" class="btn btn--primary">Kontaktiere uns!</a>
 
