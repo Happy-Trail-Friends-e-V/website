@@ -17,16 +17,15 @@ tags:
   - info
 ---
 
-### Es gibt mindestens 8 gute Gründe, Mitglied zu werden!
+### Es gibt mindestens 7 gute Gründe, Mitglied zu werden!
 
-1. Du unterstützt deinen Sport lokal und die Erschließung neuer legaler Trails in der Region.
+1. Du unterstützt deinen Sport lokal und die Erschließung neuer legaler Trails in der Region. Je mehr Leute im Verein sind, desto größer ist unser politisches Gewicht, wenn es um die Förderung unserer Trails geht!
 2. Du profitierst von einem wachsenden Angebot. Damit wird dir niemals langweilig!
 3. Du hast die Möglichkeit aktiv und legal neue Trails zu bauen!
 4. Du bekommst einen Versicherungsschutz, falls dir bei der Ausübung deines Lieblingssports etwas zustößt.
 5. Du kannst Rennlizenzen über unseren Verein beziehen und durch diesen auch gefördert werden.
 6. Ein Tag Winterberg Bikepark (34,50€ täglich) bezahlen oder ein Jahr einen Verein (45€ jährlich) zu unterstützen? Da ist die Wahl doch klar!
 7. Du lernst viele spannende Leute kennen. Von Hobbyfahrer\*innen bis zu Lizenzfahrer\*innen ist bei uns alles vertreten.
-8. Je mehr Mitglieder der Verein hat, desto eher können wir politisch weitere Trails fördern. Meld dich an und tu etwas für die lokalen Trails!
 
 Du hast Interesse und möchtest unserem Verein beitreten?
 <a href="https://mitgliedsantrag.htfev.de" class="btn btn--primary">Mitglied werden!</a>
