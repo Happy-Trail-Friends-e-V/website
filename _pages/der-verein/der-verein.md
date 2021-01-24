@@ -30,4 +30,4 @@ Unterstütze uns durch deine [Mitgliedschaft](/mitglied-werden) und werde aktive
 
 Du hast Interesse und möchtest unserem Verein beitreten?
 
-<a href="/mitglied-werden" class="btn btn--primary">7 Gründe Mitglied zu werden!</a>
+<a href="/mitglied-werden" class="btn btn--primary">8 Gründe Mitglied zu werden!</a>
