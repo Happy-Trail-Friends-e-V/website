@@ -20,6 +20,7 @@ Eine Rennlizenz, auch Lizenz oder Radsportlizenz, ist im Radsport die Erlaubnis,
 <details><summary>Wie teuer ist eine Rennlizenz?</summary>
 <p>
 Die Gebühr für eine Lizenz ist vom Landesverband abhängig.
+https://lizenzen.rad-net.de/bdr/ajax.aspx/text1/D/FAQ-korrekteBeantragungeinerBDR-Lizenz.html
 </p>
 </details>
 
