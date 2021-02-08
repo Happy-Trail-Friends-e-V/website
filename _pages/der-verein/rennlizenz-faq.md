@@ -19,7 +19,7 @@ Eine Rennlizenz, auch Lizenz oder Radsportlizenz, ist im Radsport die Erlaubnis,
 
 <details><summary>Wie teuer ist eine Rennlizenz?</summary>
 <p>
-Die Gebühr für eine Lizenz ist vom Landesverband abhängig, und Kostet aktuell in Nordrhein-Westfalen 19,- €. Die Kosten trägt der Verein.
+Die Gebühr für eine Lizenz ist vom Landesverband abhängig.
 </p>
 </details>
 
