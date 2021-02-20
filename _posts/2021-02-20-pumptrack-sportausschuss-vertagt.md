@@ -17,7 +17,7 @@ Status zur Pumptrack-Petition:
 
 ![](/assets/images/posts/pumptrack-sportausschuss-vertagt.jpg)
 
-Leider lässt sich von der gestrigen Sitzung des Sportausschusses nur berichten, dass der Prüfantrag für einen Pumptrack auf die nächste Sitzung verschoben wurde.
+Leider lässt sich von der Sitzung des Sportausschusses am 18.2. nur berichten, dass der Prüfantrag für einen Pumptrack auf die nächste Sitzung verschoben wurde.
 
-Allerdings gab es am Rande die Gelegenheit, kleinere Missverständnisse auszuräumen. 
+Allerdings gab es am Rande der Sitzung die Gelegenheit, kleinere Missverständnisse auszuräumen. 
 Wir bleiben natürlich am Ball.
