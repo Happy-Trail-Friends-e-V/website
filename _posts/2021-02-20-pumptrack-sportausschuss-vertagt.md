@@ -13,6 +13,8 @@ tags:
 author: Thorsten Rudolph
 ---
 
+Status zur Pumptrack-Petition:
+
 ![](/assets/images/posts/pumptrack-sportausschuss-vertagt.jpg)
 
 Leider lässt sich von der gestrigen Sitzung des Sportausschusses nur berichten, dass der Prüfantrag für einen Pumptrack auf die nächste Sitzung verschoben wurde.
