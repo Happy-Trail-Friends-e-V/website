@@ -1,5 +1,5 @@
 ---
-title: "Pumptrack: Sportausschuss vertagt"
+title: "Sportausschuss vertagt Prüfantrag"
 tags:
   - petition
   - news
