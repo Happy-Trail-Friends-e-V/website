@@ -6,6 +6,8 @@ main:
     url: /vereinsleben
   - title: "Mitglied werden"
     url: /mitglied-werden
+  - title: "Spenden"
+    url: /spenden
   - title: "Blog"
     url: /blog
 
@@ -16,6 +18,8 @@ verein:
         url: /der-verein
       - title: "Mitglied werden"
         url: /mitglied-werden
+      - title: "Spenden"
+        url: /spenden
       - title: "Downloads"
         url: /downloads
       - title: "Rennlizenz (FAQ)"
