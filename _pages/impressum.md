@@ -6,7 +6,7 @@ permalink: /impressum
 
 ## Dienstanbieterkennzeichnung gem. §6 TDG
 
-Happy Trail Friends e.V., Am Graben 52, 58456 Witten
+Happy Trail Friends e.V., Am Graben 52, 44579 Castrop-Rauxel
 
 E-Mail: [vorstand@htfev.de](mailto:vorstand@htfev.de)
 
