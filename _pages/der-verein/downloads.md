@@ -11,9 +11,12 @@ tags:
   - satzung
   - jugendvereinbarung
   - beitragsordnung
+  - trailbau
+  - regeln
 ---
 
 ## Satzung und Ordnungen
 * [Satzung](/assets/documents/Satzung.pdf) *Stand 02.12.2020*
 * [Beitragsordnung](/assets/documents/Beitragsordnung.pdf) *Stand 02.12.2020*
 * [Jugendvereinbarung](/assets/documents/Jugendvereinbarung.pdf) *Stand 02.12.2020*
+* [Trailbauregeln](/assets/documents/Trailbauregeln.pdf) *Stand 08.04.2021*
