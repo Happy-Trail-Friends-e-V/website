@@ -6,7 +6,7 @@ permalink: /datenschutz
 
 Hiermit informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten durch die Happy Trail Friends e.V. und die Ihnen nach dem Datenschutzrecht zustehenden Rechte.
 
-## Datenschutz auf einen Blick
+## 1. Datenschutz auf einen Blick
 ### Allgemeine Hinweise
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen um das Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
@@ -25,7 +25,7 @@ Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger
 
 Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
 
-## Hosting und Content Delivery Networks (CDN)
+## 2. Hosting und Content Delivery Networks (CDN)
 ### Externes Hosting
 Diese Website wird bei einem externen Dienstleister gehostet (Hoster). Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.
 
@@ -41,7 +41,7 @@ San Francisco CA 94107
 USA
 ```
 
-## Allgemeine Hinweise und Pflichtinformationen
+## 3. Allgemeine Hinweise und Pflichtinformationen
 ### Datenschutz
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
@@ -101,7 +101,7 @@ Sie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen
 
 Wenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
 
-## Datenerfassung
+## 4. Datenerfassung
 ### Anfrage per E-Mail, Telefon oder Telefax
 Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
@@ -118,7 +118,7 @@ Weitere Informationen zu Microsoft Forms finden Sie unter https://support.office
 
 Weitere Informationen zu Campai One finden Sie unter https://campai.com/vereinssoftware und weitere Informationen zur Verarbeitung personenbezogener Daten durch Campai unter https://campai.com/datenschutzrichtlinie.
 
-## Newsletter
+## 5. Newsletter
 ### Newsletterdaten
 Wenn Sie den auf der Website angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E- Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben. Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
 
@@ -130,7 +130,7 @@ Nach Ihrer Austragung aus der Newsletterverteilerliste wird Ihre E-Mail-Adresse 
 
 Dies dient sowohl Ihrem Interesse als auch unserem Interesse an der Einhaltung der gesetzlichen Vorgaben beim Versand von Newslettern (berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO). Die Speicherung in der Blacklist ist zeitlich nicht befristet. Sie können der Speicherung widersprechen, sofern Ihre Interessen unser berechtigtes Interesse überwiegen.
 
-## Plugins und Tools
+## 6. Plugins und Tools
 ### Font Awesome
 Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten und Symbolen Font Awesome. Anbieter ist die Fonticons, Inc., 6 Porter Road Apartment 3R, Cambridge, Massachusetts, USA.
 
