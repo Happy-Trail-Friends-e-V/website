@@ -4,7 +4,6 @@ layout: single
 permalink: /datenschutz
 ---
 
-# Datenschutz
 Hiermit informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten durch die Happy Trail Friends e.V. und die Ihnen nach dem Datenschutzrecht zustehenden Rechte.
 
 ## Datenschutz auf einen Blick
