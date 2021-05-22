@@ -1,5 +1,5 @@
 ---
-title: "Prüfantrag Pumptrack Witten genehmigt"
+title: "Prüfantrag Pumptrack Witten"
 tags:
   - petition
   - news
@@ -12,7 +12,6 @@ tags:
 author: Thorsten Rudolph
 ---
 
-## Prüfauftrag für Pumptrack beschlossen
 In der Sitzung am 20.05.2021 des Ausschusses für Stadtentwicklung, Umwelt und Klima (ASUK) wurde der Prüfauftrag für einen Pumptrack beschlossen. Das bedeutet, dass nun einzelne Bereiche der Wittener Verwaltung prüfen, wo und wie diese moderne und multifunktionale Sportstätte für Biker, Skater, Scooter, Rollstuhlsport etc. gebaut werden kann.
 
 ## Was können wir tun?
