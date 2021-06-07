@@ -17,6 +17,6 @@ tags:
 
 ## Satzung und Ordnungen
 * [Satzung](/assets/documents/Satzung.pdf) *Stand 02.12.2020*
-* [Beitragsordnung](/assets/documents/Beitragsordnung.pdf) *Stand 02.12.2020*
+* [Beitragsordnung](/assets/documents/Beitragsordnung.pdf) *Stand 07.06.2021*
 * [Jugendvereinbarung](/assets/documents/Jugendvereinbarung.pdf) *Stand 02.12.2020*
-* [Trailbauregeln](/assets/documents/Trailbauregeln.pdf) *Stand 08.04.2021*
+* [Trailbauregeln](/assets/documents/Trailbauregeln.pdf) *Stand 07.06.2021*
