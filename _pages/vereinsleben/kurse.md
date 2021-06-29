@@ -13,4 +13,4 @@ tags:
   - jugend
 ---
 
-Aufgrund der Covid-19-Pandemie kann der Verein zurzeit kein Kursangebot bereitstellen. Sobald wie möglich werden wir hier weitere Informationen veröffentlichen.
+Wir sind gerade dabei den bereits angekündigten Erste-Hilfe-Kurs zu planen. Schau regelmäßig mal vorbei, um up-to-date zu bleiben!

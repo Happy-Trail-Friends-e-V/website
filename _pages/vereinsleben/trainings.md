@@ -13,4 +13,4 @@ tags:
   - jugend
 ---
 
-Aufgrund der Covid-19-Pandemie kann der Verein zurzeit kein Trainingsangebot bereitstellen. Sobald wie möglich werden wir hier weitere Informationen veröffentlichen.
+Nach den ersten beiden Trainingseinheiten gehen wir leider schon in die Sommerpause. Aber nach dem Sommer sind wir zurück. Mehr Infos folgen!
