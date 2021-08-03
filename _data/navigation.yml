@@ -36,3 +36,5 @@ vereinsleben:
         url: /kurse
       - title: "Events"
         url: /events
+      - title: "Trikots"
+        url: /trikots
