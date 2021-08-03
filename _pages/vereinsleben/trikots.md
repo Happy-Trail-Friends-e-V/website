@@ -16,6 +16,10 @@ tags:
 
 Die Happy Trail Friends e.V. haben nun endlich Trikots, die du kaufen kannst!
 
+Keine Lust zu lesen? Hier gehts direkt zur Bestellung:
+
+<a href="https://trikots.htfev.de" class="btn btn--primary">Trikot bestellen!</a>
+
 ![](/assets/images/trikots/HTF_S_1.jpg)
 ![](/assets/images/trikots/HTF_S_2.jpg)
 
