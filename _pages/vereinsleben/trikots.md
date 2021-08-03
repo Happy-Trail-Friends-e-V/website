@@ -32,9 +32,9 @@ Natürlich haben wir hier für dich auch eine Größentabelle, damit du das Trik
 | **Vorderseite Länge** | 53 | 55 | 57 | 59 | 61 | 63 | 65 | 67 |
 | **Rückseite Länge** | 69 | 71 | 73 | 75 | 77 | 79 | 81 | 83 |
 
-#### Der Preis des Trikots beträgt **EUR 42** zzgl. Versand!
+#### Der Preis des Trikots beträgt **EUR 42**.
 
 Wenn du noch mehr Infos benötigst, kannst du dich gerne unter info@htfev.de melden. Ansonsten kannst du über den folgenden Button ein Trikot verbindlich bestellen.
-Bitte beachte, dass die Bestellung, aufgrund einer Sammelbestellung und der Produktion, nicht innerhalb der nächsten Tage nach der Bestellung bei dir eintrifft. Du bekommst jedoch einen voraussichtlichen Lieferzeitraum genannt.
+Bitte beachte, dass die Bestellung, aufgrund einer Sammelbestellung und der Produktion, ca. 5-6 Wochen nach Bestellschluss verfügbar sein wird. Sobald die Trikots da sind, bekommst du einen Hinweis von uns. Du wirst es dann beim Kinder- und Jugendlichentraining abholen können. Mehr Infos zu den Trainingszeiten unter [Trainings](/trainings).
 
 <a href="https://trikots.htfev.de" class="btn btn--primary">Trikot bestellen!</a>
