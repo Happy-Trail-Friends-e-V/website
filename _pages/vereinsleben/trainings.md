@@ -13,4 +13,11 @@ tags:
   - jugend
 ---
 
-Nach den ersten beiden Trainingseinheiten gehen wir leider schon in die Sommerpause. Aber nach dem Sommer sind wir zurück. Mehr Infos folgen!
+## Kinder- und Jugendtraining
+Nach der Sommerpause findet ab dem 19.08. regelmäßig das Kindertraining statt!
+
+**Wann?** - Jeden Donnerstag, 17 Uhr
+**Wo?** - Imber in Witten (Am Hang 2, 58453 Witten)
+**Wer?** - Kinder und Jugendliche bis 16 Jahre
+
+Je nachdem was geplant ist, kann das Training auch auf unserem Vereinsgelände am Kohlensiepen stattfinden. Sollte das der Fall sein, wird das jedoch rechtzeitig vorher angekündigt.
