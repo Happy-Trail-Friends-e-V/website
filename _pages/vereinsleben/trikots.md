@@ -1,5 +1,5 @@
 ---
-title: "Trainings"
+title: "Trikots"
 layout: single
 permalink: /trikots
 author: Happy Trail Friends e.V.
