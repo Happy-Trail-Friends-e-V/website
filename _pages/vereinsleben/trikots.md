@@ -28,6 +28,8 @@ Natürlich haben wir hier für dich auch eine Größentabelle, damit du das Trik
 | **Vorderseite Länge** | 53 | 55 | 57 | 59 | 61 | 63 | 65 | 67 |
 | **Rückseite Länge** | 69 | 71 | 73 | 75 | 77 | 79 | 81 | 83 |
 
+#### Der Preis des Trikots beträgt **EUR 42**.
+
 Wenn du noch mehr Infos benötigst, kannst du dich gerne unter info@htfev.de melden. Ansonsten kannst du über den folgenden Button ein Trikot verbindlich bestellen.
 Bitte beachte, dass die Bestellung, aufgrund einer Sammelbestellung und der Produktion, nicht innerhalb der nächsten Tage nach der Bestellung bei dir eintrifft. Du bekommst jedoch einen voraussichtlichen Lieferzeitraum genannt.
 
