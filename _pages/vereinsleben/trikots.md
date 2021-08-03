@@ -31,4 +31,4 @@ Natürlich haben wir hier für dich auch eine Größentabelle, damit du das Trik
 Wenn du noch mehr Infos benötigst, kannst du dich gerne unter info@htfev.de melden. Ansonsten kannst du über den folgenden Button ein Trikot verbindlich bestellen.
 Bitte beachte, dass die Bestellung, aufgrund einer Sammelbestellung und der Produktion, nicht innerhalb der nächsten Tage nach der Bestellung bei dir eintrifft. Du bekommst jedoch einen voraussichtlichen Lieferzeitraum genannt.
 
-<a href="https://mitgliedsantrag.htfev.de" class="btn btn--primary">Trikot bestellen!</a>
+<a href="https://trikots.htfev.de" class="btn btn--primary">Trikot bestellen!</a>
