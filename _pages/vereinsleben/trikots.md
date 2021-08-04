@@ -15,7 +15,7 @@ tags:
 ---
 
 Die Happy Trail Friends e.V. haben nun endlich Trikots, die du kaufen kannst!
-Wir nehmen bestellungen bis zum 15. August an.
+Wir nehmen Bestellungen bis zum 15. August an.
 
 Keine Lust zu lesen? Hier gehts direkt zur Bestellung:
 
