@@ -8,7 +8,7 @@ row_1:
     alt: "Trikot bestellen"
     title: "Trikot bestellen"
     url: "/trikots"
-    excerpt: "Bestelle eins unserer neuen Trikots bis zum 15. August!"
+    excerpt: "Bestelle bis zum 15. August eins unserer neuen Trikots!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
   #- image_path: /assets/images/features/activities.jpg
