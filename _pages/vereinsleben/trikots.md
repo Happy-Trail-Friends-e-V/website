@@ -24,7 +24,9 @@ Keine Lust zu lesen? Hier gehts direkt zur Bestellung:
 ![](/assets/images/trikots/HTF_S_1.jpg)
 ![](/assets/images/trikots/HTF_S_2.jpg)
 
-Natürlich haben wir hier für dich auch eine Größentabelle, damit du das Trikot passend bestellen kannst.
+Natürlich haben wir hier für dich auch eine Größentabelle, damit du das Trikot passend bestellen kannst. Bitte beachte die Art und Weise, wie gemessen wird! Bei der Brust wird zum Beispiel nur die "halbe Brust" gemessen. Nachfolgend auch noch ein Bild zur Veranschaulichung.
+
+![](/assets/images/trikots/masse.jpg)
 
 | | XS | S | M | L | XL | 2XL | 3XL | 4XL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
