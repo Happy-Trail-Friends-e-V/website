@@ -21,3 +21,4 @@ Nach der Sommerpause findet ab dem 19.08. regelmäßig das Kindertraining statt!
 * **Wer?** - Kinder und Jugendliche bis 16 Jahre
 
 Je nachdem was geplant ist, kann das Training auch auf unserem Vereinsgelände am Kohlensiepen stattfinden. Sollte das der Fall sein, wird das jedoch rechtzeitig vorher angekündigt.
+Natürlich ist auch ein Schnuppertraining möglich. Melde dich dazu doch bitte vorher unter vorstand@htfev.de.
