@@ -11,6 +11,13 @@ row_1:
     excerpt: "Bestelle bis zum 15. August eins unserer neuen Trikots!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
+  - image_path: /assets/images/linkinbio/trailjagd_2021.jpg
+    alt: "Hörnli Trailjagd 2021"
+    title: "Hörnli Trailjagd 2021"
+    url: "https://www.youtube.com/watch?v=dzMfKyyxhVM"
+    excerpt: "Klicke hier für das Aftermovie des Events!"
+    btn_label: "Mehr ..."
+    btn_class: "btn--primary"
   #- image_path: /assets/images/features/activities.jpg
   #  alt: "Vereinsleben"
   #  title: "Vereinsleben"
