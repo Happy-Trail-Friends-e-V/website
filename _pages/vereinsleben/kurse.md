@@ -13,4 +13,7 @@ tags:
   - jugend
 ---
 
-Wir sind gerade dabei den bereits angekündigten Erste-Hilfe-Kurs zu planen. Schau regelmäßig mal vorbei, um up-to-date zu bleiben!
+## Sprungkurs für Anfänger
+Wir bieten zurzeit einen Sprungkurs für Anfänger an. Klicke für mehr Informationen hier:
+
+<a href="/sprungkurs-anfaenger" class="btn btn--primary">Mehr erfahren ...</a>
