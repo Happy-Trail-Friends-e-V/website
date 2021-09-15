@@ -52,6 +52,9 @@ Dieser Kurs ist für all die, die noch gar keine Erfahrungen mit Springen gemach
 #### Kann ich den Kurs ohne Vorwissen belegen?
 Jaein. Du solltest allerdings sicher im Gelände unterwegs sein können und dein Mountainbike beherrschen.
 
+#### Darf ich den Kurs auch mit einem E-Mountainbike belegen?
+Na klar! Wir machen und wollen keine Unterschiede!
+
 #### Wie viele Teilnehmer hat der Kurs mindestens und maximal?
 Es müssen mindestens 3 Teilnehmer dabei sein. Maximal werden es 8 sein.
 
