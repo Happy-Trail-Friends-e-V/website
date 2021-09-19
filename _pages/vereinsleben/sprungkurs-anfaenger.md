@@ -19,7 +19,7 @@ Solltest du am Anfang des Kurses noch nie vom Boden abgehoben sein, wird sich da
 
 * **Wann?** - Sonntag, den 3.10.2021 & Samstag, den 30.10.2021 jeweils ab 10 Uhr
 * **Wo?** - Vereinsgelände am Kohlensiepen, Treffpunkt [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/pdgP25FJnvatZQ7f9)
-* **Wer?** - Janni & Consti
+* **Wer?** - Erwachsene mit wenig oder gar keiner Sprungerfahrung
 * **Wie lang?** - ca. 4 Stunden
 * **Max. Teilnehmer** - 8
 * **Kosten** - 25€ für Vereinsmitglieder / 38€ für Nicht-Mitglieder
