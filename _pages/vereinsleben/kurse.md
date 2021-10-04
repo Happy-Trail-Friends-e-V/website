@@ -14,6 +14,4 @@ tags:
 ---
 
 ## Sprungkurs für Anfänger
-Wir bieten zurzeit einen Sprungkurs für Anfänger an. Klicke für mehr Informationen hier:
-
-<a href="/sprungkurs-anfaenger" class="btn btn--primary">Mehr erfahren ...</a>
+Die aktuellen Termine des Sprungkurses sind mittlerweile komplett ausgebucht. Wir arbeiten mit Hochdruck an neuen Zeiten!
