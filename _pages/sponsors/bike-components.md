@@ -6,6 +6,8 @@ author: Happy Trail Friends e.V.
 author_profile: true
 ---
 
+![](/assets/images/bike-components/BC_logo_Orange_RGB.png)
+
 Bike-Components ist Partner des Happy Trail Friends e.V. und gewährt allen Mitgliedern einen Rabatt von 5% auf alle Artikel.
 Im Nachfolgenden eine kurze Erklärung, wie dieser Rabatt nutzbar ist!
 
