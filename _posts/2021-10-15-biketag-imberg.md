@@ -17,5 +17,4 @@ Unterstützt wird unsere Veranstaltung von der AktionfahrRad, die sich intensiv 
 Aber das sollte nicht der Hauptgrund sein, uns zu besuchen.
 Denn es besteht natürlich die Möglichkeit, unseren Verein kennenzulernen und sich über viele bikespezifische Themen mit uns und anderen Interessierten auszutauschen. Wir beantworten auch sehr gerne eure Fragen zur Auswahl des richtigen Bikes und zur Schutzausrüstung.
 
-
 Wichtig: Mitfahrende sollten unbedingt einen Helm tragen, für Sprünge auf dem großen Pumptrack empfehlen wir zusätzlich Protektoren. Grundsätzlich gelten auf dem Gelände die Regeln und Vorgaben der Stadt Witten.
