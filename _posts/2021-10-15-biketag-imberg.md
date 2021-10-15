@@ -3,9 +3,9 @@ title: "Biketag Imberg"
 author: Thorsten Rudolph
 ---
 
-Datum: 20. Oktober 2021
-Uhrzeit: 14.00 - 17.00 Uhr
-Ort: Steinbruch Imberg, Am Hang 2, 58453 Witten
+* **Datum:** 20. Oktober 2021
+* **Uhrzeit:** 14.00 - 17.00 Uhr
+* **Ort:** Steinbruch Imberg, Am Hang 2, 58453 Witten
 
 Hiermit laden wir euch herzlich zu unserem Biketag am Imberg am 20. Oktober ab 14.00 Uhr ein.
 
