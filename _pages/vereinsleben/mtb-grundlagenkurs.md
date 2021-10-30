@@ -21,7 +21,7 @@ Solltest du am Anfang des Kurses noch unsicher sein, wird sich das bis zum Ende 
 * **Wo?** - Vereinsgelände am Kohlensiepen, Treffpunkt [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/pdgP25FJnvatZQ7f9)
 * **Wer?** - Erwachsene, die auf der Suche nach mehr Sicherheit auf dem Trail sind
 * **Wie lang?** - ca. 3-4 Stunden
-* **Max. Teilnehmer** - 8
+* **Max. Teilnehmer** - 6
 * **Kosten** - 25€ für Vereinsmitglieder / 38€ für Nicht-Mitglieder
 
 <a href="https://one.campai.com/f/0gpV3VrkYQZU" class="btn btn--primary">Hier anmelden!</a>
