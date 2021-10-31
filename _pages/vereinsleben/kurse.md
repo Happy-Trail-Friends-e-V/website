@@ -17,4 +17,4 @@ tags:
 Die aktuellen Termine des Sprungkurses sind mittlerweile komplett ausgebucht. Wir arbeiten mit Hochdruck an neuen Zeiten!
 
 ## Mountainbike Grundlagenkurs
-Wir arbeiten zurzeit am Mountainbike Grundlagenkurs. Dieser wird in Kürze verfügbar sein!
+<a href="/mtb-grundlagenkurs" class="btn btn--primary">Mehr Infos hier!</a>
