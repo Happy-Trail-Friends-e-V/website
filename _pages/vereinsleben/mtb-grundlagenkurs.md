@@ -17,7 +17,7 @@ Wir zeigen dir die Grundlagen des Mountainbikens. Angefangen beim Einstellen dei
 
 Solltest du am Anfang des Kurses noch unsicher sein, wird sich das bis zum Ende hoffentlich geändert haben und du in der Lage sein, die Strecken auf unserem Gelände locker zu meistern!
 
-* **Wann?** - Samstag, den 13.11.2021 jeweils ab 10 Uhr
+* **Wann?** - Samstag, den 13.11.2021, um 10 Uhr
 * **Wo?** - Vereinsgelände am Kohlensiepen, Treffpunkt [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/pdgP25FJnvatZQ7f9)
 * **Wer?** - Erwachsene, die auf der Suche nach mehr Sicherheit auf dem Trail sind
 * **Wie lang?** - ca. 3-4 Stunden
