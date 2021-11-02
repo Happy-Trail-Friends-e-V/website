@@ -17,7 +17,10 @@ tags:
 
 Unser Verein lebt von Spenden, um seine Projekte umsetzen zu können. Daher freuen wir uns über jeden Taler, den wir weiter in die Jugendförderung und Förderung unseres Sport stecken können.
 
-Wir können dir gerne für die Spende eine Spendenbescheinigung ausstellen. Hinterlasse uns dazu bitte deine E-Mail-Adresse im Verwendungszweck oder kontaktiere uns unter [vorstand@htfev.de](mailto:vorstand@htfev.de).
+Wir können dir gerne für die Spende eine Spendenbescheinigung ausstellen.
+
+## SEPA-Lastschrift
+<a href="https://one.campai.com/f/TN667_vLW1RC" class="btn btn--primary">Hier geht es zum Formular!</a>
 
 ## Banküberweisung
 **Kontoinhaber:** Happy Trail Friends e.V.
@@ -25,7 +28,7 @@ Wir können dir gerne für die Spende eine Spendenbescheinigung ausstellen. Hint
 **IBAN:** DE55 4306 0129 0630 2237 00
 
 ## PayPal
-<a href="https://www.paypal.com/donate?hosted_button_id=Q7NPU49VDLCB4" class="btn btn--primary">Spenden!</a>
+<a href="https://www.paypal.com/donate?hosted_button_id=Q7NPU49VDLCB4" class="btn btn--primary">Über PayPal spenden!</a>
 
 ## QR-Code
 Scanne einfach den nachfolgenden Code mit der Kamera deines Handys, um zur PayPal-Spendenseite zu kommen!
