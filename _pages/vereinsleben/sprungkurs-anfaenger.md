@@ -24,7 +24,7 @@ Solltest du am Anfang des Kurses noch nie vom Boden abgehoben sein, wird sich da
 * **Max. Teilnehmer** - 8
 * **Kosten** - 25€ für Vereinsmitglieder / 38€ für Nicht-Mitglieder
 
-<a href="https://one.campai.com/f/0gpV3VrkYQZU" class="btn btn--primary">Hier anmelden!</a>
+<a href="https://forms.office.com/r/CDKuK2i8Mm" class="btn btn--primary">Hier anmelden!</a>
 
 ## Voraussetzungen
 * Erste Erfahrungen auf dem Mountainbike und sicheres Fahren im Gelände

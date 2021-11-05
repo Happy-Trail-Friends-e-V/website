@@ -14,7 +14,7 @@ tags:
 ---
 
 ## Sprungkurs für Anfänger
-Die aktuellen Termine des Sprungkurses sind mittlerweile komplett ausgebucht. Wir arbeiten mit Hochdruck an neuen Zeiten!
+<a href="/sprungkurs-anfaenger" class="btn btn--primary">Mehr Infos hier!</a>
 
 ## Mountainbike Grundlagenkurs
 <a href="/mtb-grundlagenkurs" class="btn btn--primary">Mehr Infos hier!</a>
