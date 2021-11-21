@@ -48,3 +48,6 @@ Hier gehts zum Strava-Club, über den wir die Fahrten tracken. Bitte macht dort 
 ![](/assets/images/posts/strava_beitrittsanfrage.png)
 
 Wir bedanken und auch ganz herzlich an unsere Freunde der **Dead Pedal Society** aus Iserlohn, die uns bei dieser Spendensammelaktion mit ihren Kilometern fleißig unterstützen.
+
+## Sonstige Spenden
+Du kannst nicht für uns fahren, möchtest die Aktion aber unterstützen? Spende gerne [hier](/spenden).
