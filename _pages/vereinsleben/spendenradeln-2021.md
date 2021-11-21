@@ -17,7 +17,7 @@ tags:
 Der Happy Trail Friends e.V. ruft seine Mitglieder im Dezember 2021 erstmalig zum „Spendenradeln“ auf und vereint auf diesem Wege Vereinssport im Freien, gemeinnütze Arbeit und ein klares Ziel: finanzielle Unterstützung von gemeinnützigen Vereinen in unserer Region!
 
 ## tl;dr
-Tritt unserem Strava Club bei, tracke deine Fahrten und tu was gutes!:
+Tritt unserem Strava Club bei, tracke deine Fahrten und tu was Gutes!
 
 <a href="https://www.strava.com/clubs/spendenradeln" class="btn btn--primary">Beitreten!</a>
 
@@ -42,8 +42,10 @@ Damit ihr euch auch wirklich auf euer Rad setzt, haben wir versucht so viele Tou
 
 **Wichtig!** Ihr müsst nicht an diesen Touren teilnehmen! Jede Fahrt zählt, egal, ob ihr sie in dieser Truppe gefahren seid, oder nicht.
 
-Hier gehts zum Strava-Club, über den wir die Fahrten tracken:
+Hier gehts zum Strava-Club, über den wir die Fahrten tracken. Bitte macht dort eine "Beitrittsanfrage"!
 
 <a href="https://www.strava.com/clubs/spendenradeln" class="btn btn--primary">Beitreten!</a>
+
+![](/assets/images/posts/strava_beitrittsanfrage.png)
 
 Wir bedanken und auch ganz herzlich an unsere Freunde der **Dead Pedal Society** aus Iserlohn, die uns bei dieser Spendensammelaktion mit ihren Kilometern fleißig unterstützen.
