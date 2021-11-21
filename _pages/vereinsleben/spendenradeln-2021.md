@@ -17,12 +17,11 @@ tags:
 Der Happy Trail Friends e.V. ruft seine Mitglieder im Dezember 2021 erstmalig zum „Spendenradeln“ auf und vereint auf diesem Wege Vereinssport im Freien, gemeinnütze Arbeit und ein klares Ziel: finanzielle Unterstützung von gemeinnützigen Vereinen in unserer Region!
 
 ## tl;dr
-Tritt unserem Strava Club bei, tracke deine Fahrten und tu was Gutes!
+Tritt unserem Strava Club bei, tracke deine Fahrten zwischen Weihnachten und Neujahr und tu was Gutes!
 
 <a href="https://www.strava.com/clubs/spendenradeln" class="btn btn--primary">Beitreten!</a>
 
 ## Mehr Infos
-
 Wir wollen im Zeitraum vom **25.12.2012** bis zum **31.12.2021** genau erfassen, wie viele Kilometer ihr auf eurem Bike zurückgelegt habt. Bei gemeinsamen Ausfahrten oder einer kurzen Runde zwischen den Weihnachtsessen, werden die gefahrenen Kilometer aller Teilnehmer mit Hilfe der Strava-App erfasst.
 
 Mit Unterstützung zwei beteiligter Unternehmen werden Spenden "erradelt". Pro gefahrene Kilometer spenden die Unternehmen jeweils einen Betrag von 1€ an den Happy Trail Friends e.V., der die Gelder wiederum an die gemeinnützigen Vereine und Organisationen verteilt. Die Spendenzwecke werden im Vorfeld veröffentlicht.
