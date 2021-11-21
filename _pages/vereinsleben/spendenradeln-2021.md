@@ -36,9 +36,9 @@ Damit ihr euch auch wirklich auf euer Rad setzt, haben wir versucht so viele Tou
 | 26.12.2021 10:30 | Gravel / Rennrad Tour durchden Portt | 2-3h, 40-50km, 2-300hm | Janni | [Jahrhunderthalle Bochum](https://goo.gl/maps/hpGNF3U8Z5G2zMh48) |
 | 27.12.2021 14:00 | Enduro rund um den Kohlensiepen | 2-3h, 20-25km, 7-900hm | Henrik | [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/Mua77JuZWBpiZM6P8) |
 | 28.12.2021 10:30 | Gravel / Rennrad Tour ins Münsterland | 4-5h, 90-100km, 400hm | Consti | [Parkplatz TU-Dortmund](https://goo.gl/maps/evFdQjePqFsx7BkZA) |
-| 29.12.2021 | - | - | - | - | - | - |
+| 29.12.2021 | - | - | - | - |
 | 30.12.2021 14:00 | Enduro rund um den Kohlensiepen | 2-3h, 20-25km, 7-900hm | Henrik | [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/Mua77JuZWBpiZM6P8) |
-| 31.12.2021 | - | - | - | - | - | - |
+| 31.12.2021 | - | - | - | - |
 
 **Wichtig!** Ihr müsst nicht an diesen Touren teilnehmen! Jede Fahrt zählt, egal, ob ihr sie in dieser Truppe gefahren seid, oder nicht.
 
