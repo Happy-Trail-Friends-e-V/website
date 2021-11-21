@@ -40,7 +40,7 @@ Damit ihr euch auch wirklich auf euer Rad setzt, haben wir versucht so viele Tou
 | 30.12.2021 14:00 | Enduro rund um den Kohlensiepen | 2-3h, 20-25km, 7-900hm | Henrik | [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/Mua77JuZWBpiZM6P8) |
 | 31.12.2021 | - | - | - | - |
 
-**Wichtig!** Ihr müsst nicht an diesen Touren teilnehmen! Jede Fahrt zählt, egal, ob ihr sie in dieser Truppe gefahren seid, oder nicht. Es kann außerdem sein, dass wir die Touren wettertechnisch anpassen werden. Schaut also regelmäßig hier vorbei bzw. folgt uns für Updates auf Instagram.
+**Wichtig!** Ihr müsst nicht an diesen Touren teilnehmen! Jede Fahrt zählt, egal, ob ihr sie in dieser Truppe gefahren seid, oder nicht. Es kann außerdem sein, dass wir die Touren wettertechnisch anpassen werden. Schaut also regelmäßig hier vorbei bzw. folgt uns für Updates auf Instagram. Oder tritt unserer News-Gruppe bei. Mehr [hier](/vereinsleben).
 
 Hier gehts zum Strava-Club, über den wir die Fahrten tracken. Bitte macht dort eine "Beitrittsanfrage"!
 
