@@ -31,7 +31,7 @@ Damit ihr euch auch wirklich auf euer Rad setzt, haben wir versucht so viele Tou
 
 | Datum & Uhrzeit | Beschreibung | Länge | Guide | Treffpunkt |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25.12.2021 11:30 | Freeride auf der Halde Hoppenbruch (Dauer und Länge frei wählbar) | 2-3h, 15-20km, 4-600hm | Consti | [Blaue Brücke Halde Hoppenbruch](https://goo.gl/maps/stfvv4tT2owBbWd29) |
+| 25.12.2021 10:00 | Mountainbike-Tour Dortmund | ca. 2h, 20-25km, 3-400hm | Consti | [Augustinum Dortmund](https://goo.gl/maps/tBxibjUocVYt4CNr9) |
 | 26.12.2021 10:30 | Gravel / Rennrad Tour durch den Pott | 2-3h, 40-50km, 2-300hm | Janni | [Jahrhunderthalle Bochum](https://goo.gl/maps/hpGNF3U8Z5G2zMh48) |
 | 27.12.2021 14:00 | Enduro rund um den Kohlensiepen | 2-3h, 20-25km, 7-900hm | Henrik | [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/Mua77JuZWBpiZM6P8) |
 | 28.12.2021 10:30 | Gravel / Rennrad Tour ins Münsterland | 4-5h, 90-100km, 400hm | Consti | [Parkplatz TU-Dortmund](https://goo.gl/maps/evFdQjePqFsx7BkZA) |
