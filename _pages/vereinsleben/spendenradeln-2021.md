@@ -33,10 +33,10 @@ Damit ihr euch auch wirklich auf euer Rad setzt, haben wir versucht so viele Tou
 | --- | --- | --- | --- | --- | --- | --- |
 | 25.12.2021 10:00 | Mountainbike-Tour Dortmund | ca. 2h, 20-25km, 3-400hm | Consti | [Augustinum Dortmund](https://goo.gl/maps/tBxibjUocVYt4CNr9) |
 | 26.12.2021 10:30 | Gravel / Rennrad Tour durch den Pott | 2-3h, 40-50km, 2-300hm | Janni | [Jahrhunderthalle Bochum](https://goo.gl/maps/hpGNF3U8Z5G2zMh48) |
-| 27.12.2021 14:00 | Enduro rund um den Kohlensiepen | 2-3h, 20-25km, 7-900hm | Henrik | [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/Mua77JuZWBpiZM6P8) |
-| 28.12.2021 10:30 | Gravel / Rennrad Tour ins Münsterland | 4-5h, 90-100km, 400hm | Consti | [Parkplatz TU-Dortmund](https://goo.gl/maps/evFdQjePqFsx7BkZA) |
+| 27.12.2021 | - | - | - | - |
+| 28.12.2021 | - | - | - | - |
 | 29.12.2021 | - | - | - | - |
-| 30.12.2021 14:00 | Enduro rund um den Kohlensiepen | 2-3h, 20-25km, 7-900hm | Henrik | [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/Mua77JuZWBpiZM6P8) |
+| 30.12.2021 10:30 | Enduro rund um den Kohlensiepen | 2-3h, 20-25km, 7-900hm | Consti | [Wanderparkplatz Kohlensiepen](https://goo.gl/maps/Mua77JuZWBpiZM6P8) |
 | 31.12.2021 | - | - | - | - |
 
 **Wichtig!** Ihr müsst nicht an diesen Touren teilnehmen! Jede Fahrt zählt, egal, ob ihr sie in dieser Truppe gefahren seid, oder nicht. Es kann außerdem sein, dass wir die Touren wettertechnisch anpassen werden. Schaut also regelmäßig hier vorbei bzw. folgt uns für Updates auf Instagram. Oder tritt unserer News-Gruppe bei. Mehr [hier](/vereinsleben).
