@@ -18,13 +18,13 @@ row_1:
     excerpt: "Bestelle bis zum 15. August eins unserer neuen Trikots!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
-  #- image_path: /assets/images/features/activities.jpg
-  #  alt: "Vereinsleben"
-  #  title: "Vereinsleben"
-  #  excerpt: "Informiere dich auf dieser Seite über Events, Kurse und das Trainingsangebot des Vereins."
-  #  url: "/vereinsleben"
-  #  btn_label: "Mehr ..."
-  #  btn_class: "btn--primary"
+  - image_path: /assets/images/features/news-group.png
+    alt: "News-Gruppe"
+    title: "News-Gruppe"
+    excerpt: "Verpasse nichts mehr mit Hilfe der WhatsApp-News-Gruppe!"
+    url: "https://chat.whatsapp.com/KNxeW86HrfY62sWjAIaR1S"
+    btn_label: "Mehr ..."
+    btn_class: "btn--primary"
   #- image_path: /assets/images/features/application.jpg
   #  alt: "Mitglied werden"
   #  title: "Mitglied werden"
