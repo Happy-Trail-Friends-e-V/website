@@ -55,9 +55,15 @@ row_3:
     excerpt: "Klicke hier für mehr Informationen!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
+  - image_path: /assets/images/linkinbio/prokid.jpg
+    alt: "Pro Kid e.V."
+    title: "Pro Kid e.V."
+    url: "https://www.prokid-herdecke.de"
+    excerpt: "Klicke hier für mehr Informationen!"
+    btn_label: "Mehr ..."
+    btn_class: "btn--primary"
 
 ---
-
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="row_3" %}
