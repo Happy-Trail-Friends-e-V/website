@@ -18,7 +18,7 @@ row_1:
     excerpt: "Bestelle bis zum 15. August eins unserer neuen Trikots!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
-  - image_path: /assets/images/features/news-group.png
+  - image_path: /assets/images/linkinbio/news-group.png
     alt: "News-Gruppe"
     title: "News-Gruppe"
     excerpt: "Verpasse nichts mehr mit Hilfe der WhatsApp-News-Gruppe!"
@@ -40,7 +40,7 @@ row_2:
     excerpt: "Klicke hier, um das aktuelle Kursangebot zu sehen!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
-  - image_path: /assets/images/features/spendenradeln.png
+  - image_path: /assets/images/linkinbio/spendenradeln.png
     alt: "Spendenradeln 2021"
     title: "Spendenradeln 2021"
     excerpt: "Hier findest du mehr Informationen, wie du teilnehmen kannst!"
