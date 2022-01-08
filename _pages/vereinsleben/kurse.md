@@ -11,10 +11,13 @@ tags:
   - gelände
   - spot
   - jugend
----
 
 ## Sprungkurs für Anfänger
-<a href="/sprungkurs-anfaenger" class="btn btn--primary">Mehr Infos hier!</a>
+#<a href="/sprungkurs-anfaenger" class="btn btn--primary">Mehr Infos hier!</a>
 
 ## Mountainbike Grundlagenkurs
-<a href="/mtb-grundlagenkurs" class="btn btn--primary">Mehr Infos hier!</a>
+#<a href="/mtb-grundlagenkurs" class="btn btn--primary">Mehr Infos hier!</a>
+
+---
+
+Aktuell haben wir keine Kurse im Angebot. Schau regelmäßig vorbei für mehr!

@@ -43,4 +43,4 @@ tags:
 #<a href="https://trikots.htfev.de" class="btn btn--primary">Trikot bestellen!</a>
 ---
 
-Wenn du ein Trikot haben möchtest, meld dich bitte unter constantin@htfev.de. Wir haben von der letzten Bestellung noch einige übrig!
+Wenn du ein Trikot haben möchtest, meld dich bitte unter vorstand@htfev.de. Wir haben von der letzten Bestellung noch einige übrig!
