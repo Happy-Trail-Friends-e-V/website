@@ -32,13 +32,8 @@ row_1:
   #  url: /mitglied-werden
   #  btn_label: "Mehr ..."
   #  btn_class: "btn--primary"
-
-
-
-# {% include feature_row id="intro" type="center" %}
-
-# {% include feature_row id="row_1" %}
 ---
-<br/>
-<br/>
-<div class="eLIB--grid__singleOption"><link rel="stylesheet" href="https://linkin.bio/css/gallery.min.css"><iframe src="https://linkin.bio/happy_trail_friends" width="100%" height="1165px" frameborder="0"></iframe></div>
+
+
+{% include feature_row id="intro" type="center" %}
+{% include feature_row id="row_1" %}
