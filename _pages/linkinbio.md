@@ -48,7 +48,7 @@ row_2:
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
 row_3:
-  - image_path: /assets/images/linkinbio/ruhrtalenegel.jpg
+  - image_path: /assets/images/linkinbio/ruhrtalengel.jpg
     alt: "Ruhrtal Engel e.V."
     title: "Ruhrtal Engel e.V."
     url: "https://ruhrtalengel.de"
