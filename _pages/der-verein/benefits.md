@@ -1,5 +1,5 @@
 ---
-title: Benefits"
+title: Vorteile der Mitgliedschaft
 layout: single
 permalink: /benefits
 author: Happy Trail Friends e.V.
@@ -8,7 +8,6 @@ sidebar:
     nav: "verein"
 ---
 
-## Vorteile der Mitgliedschaft
 ### Bike-Components
 Wir sind Partner von Bike-Components. Jedes Mitglied bekommt 5% Rabatt auf jede Bestellung. Klicke [hier](/bike-components), um mehr zu erfahren. Beachte jedoch, dass dieser erst mit Beginn des nächsten Monats verfügbar wird.
 
