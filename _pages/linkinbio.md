@@ -4,11 +4,11 @@ layout: splash
 permalink: /link-in-bio
 
 row_1:
-  - image_path: /assets/images/linkinbio/trailjagd_2021.jpg
-    alt: "Hörnli Trailjagd 2021"
-    title: "Hörnli Trailjagd 2021"
-    url: "https://www.youtube.com/watch?v=dzMfKyyxhVM"
-    excerpt: "Klicke hier für das Aftermovie des Events!"
+  - image_path: /assets/images/linkinbio/news-group.png
+    alt: "News-Gruppe"
+    title: "News-Gruppe"
+    excerpt: "Verpasse nichts mehr mit Hilfe der WhatsApp-News-Gruppe!"
+    url: "https://chat.whatsapp.com/KNxeW86HrfY62sWjAIaR1S"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
   - image_path: /assets/images/linkinbio/trikot.jpg
@@ -18,19 +18,19 @@ row_1:
     excerpt: "Bestelle bis zum 15. August eins unserer neuen Trikots!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
-  - image_path: /assets/images/linkinbio/news-group.png
-    alt: "News-Gruppe"
-    title: "News-Gruppe"
-    excerpt: "Verpasse nichts mehr mit Hilfe der WhatsApp-News-Gruppe!"
-    url: "https://chat.whatsapp.com/KNxeW86HrfY62sWjAIaR1S"
+  - image_path: /assets/images/linkinbio/trailjagd_2021.jpg
+    alt: "Hörnli Trailjagd 2021"
+    title: "Hörnli Trailjagd 2021"
+    url: "https://www.youtube.com/watch?v=dzMfKyyxhVM"
+    excerpt: "Klicke hier für das Aftermovie des Events!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
 row_2:
-  - image_path: /assets/images/linkinbio/bc.png
-    alt: "Bike-Components Support"
-    title: "Bike-Components Support"
-    url: "/bike-components"
-    excerpt: "Klicke hier für die Anleitung!"
+  - image_path: /assets/images/linkinbio/spendenradeln.png
+    alt: "Spendenradeln 2021"
+    title: "Spendenradeln 2021"
+    excerpt: "Hier findest du mehr Informationen, wie du teilnehmen kannst!"
+    url: "/spendenradeln-2021"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
   - image_path: /assets/images/linkinbio/sprungkurse.png
@@ -40,25 +40,25 @@ row_2:
     excerpt: "Klicke hier, um das aktuelle Kursangebot zu sehen!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
-  - image_path: /assets/images/linkinbio/spendenradeln.png
-    alt: "Spendenradeln 2021"
-    title: "Spendenradeln 2021"
-    excerpt: "Hier findest du mehr Informationen, wie du teilnehmen kannst!"
-    url: "/spendenradeln-2021"
+  - image_path: /assets/images/linkinbio/bc.png
+    alt: "Bike-Components Support"
+    title: "Bike-Components Support"
+    url: "/bike-components"
+    excerpt: "Klicke hier für die Anleitung!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
 row_3:
-  - image_path: /assets/images/linkinbio/ruhrtalengel.jpg
-    alt: "Ruhrtal Engel e.V."
-    title: "Ruhrtal Engel e.V."
-    url: "https://ruhrtalengel.de"
-    excerpt: "Klicke hier für mehr Informationen!"
-    btn_label: "Mehr ..."
-    btn_class: "btn--primary"
   - image_path: /assets/images/linkinbio/prokid.jpg
     alt: "Pro Kid e.V."
     title: "Pro Kid e.V."
     url: "https://www.prokid-herdecke.de"
+    excerpt: "Klicke hier für mehr Informationen!"
+    btn_label: "Mehr ..."
+    btn_class: "btn--primary"
+  - image_path: /assets/images/linkinbio/ruhrtalengel.jpg
+    alt: "Ruhrtal Engel e.V."
+    title: "Ruhrtal Engel e.V."
+    url: "https://ruhrtalengel.de"
     excerpt: "Klicke hier für mehr Informationen!"
     btn_label: "Mehr ..."
     btn_class: "btn--primary"
