@@ -40,6 +40,7 @@ Wir bedanken uns ganz herzlich bei den folgenden Sponsoren, die unser Event unte
 
 ![](/assets/images/zeitfahren/kumpelbier-logo.png)
 
+![](/assets/images/zeitfahren/ahe-logo.png)
 
 ## Wichtige Dokumente
 * [Reglement](/assets/documents/zeitfahren/Reglement.pdf)
