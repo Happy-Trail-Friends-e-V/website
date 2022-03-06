@@ -21,6 +21,19 @@ Bitte lies dir das [Reglement](/assets/documents/zeitfahren/Reglement.pdf) aufme
 Die Anmeldung ist zurzeit noch nicht offen. Schaue immer wieder auf dieser Seite vorbei, um auf dem aktuellsten Stand zu bleiben. Alternativ kannst du auch unserem [Instagram-Account](https://www.instagram.com/happy_trail_friends/) oder der [WhatsApp News-Gruppe](https://chat.whatsapp.com/KNxeW86HrfY62sWjAIaR1S) für Neuigkeiten folgen.
 {: .notice--info}
 
+## Sponsoren
+Wir bedanken uns ganz herzlich bei den folgenden Sponsoren, die unser Event unterstützen!
+
+![](/assets/images/zeitfahren/ixs-logo.png)
+
+![](/assets/images/zeitfahren/muc-off-logo.png)
+
+![](/assets/images/zeitfahren/spank-logo.png)
+
+![](/assets/images/zeitfahren/kumpelbier-logo.png)
+
+![](/assets/images/zeitfahren/mmb-logo.png)
+
 ## Wichtige Dokumente
 * [Reglement](/assets/documents/zeitfahren/Reglement.pdf)
 * [Verzichtserklärung](/assets/documents/zeitfahren/Verzichtserklärung.pdf)
