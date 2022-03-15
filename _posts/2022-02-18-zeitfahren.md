@@ -27,8 +27,7 @@ Bitte lies dir das [Reglement](/assets/documents/zeitfahren/Reglement.pdf) aufme
 
 ## Anmeldung
 
-Die Anmeldung ist zurzeit noch nicht offen. Schaue immer wieder auf dieser Seite vorbei, um auf dem aktuellsten Stand zu bleiben. Alternativ kannst du auch unserem [Instagram-Account](https://www.instagram.com/happy_trail_friends/) oder der [WhatsApp News-Gruppe](https://chat.whatsapp.com/KNxeW86HrfY62sWjAIaR1S) für Neuigkeiten folgen.
-{: .notice--info}
+<a href="https://portal.run-timing.de/529/registration" class="btn btn--primary">Hier gehts zur Anmeldung!</a>
 
 ## Sponsoren
 Wir bedanken uns ganz herzlich bei den folgenden Sponsoren, die unser Event unterstützen!
