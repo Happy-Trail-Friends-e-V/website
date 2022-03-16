@@ -29,6 +29,9 @@ Bitte lies dir das [Reglement](/assets/documents/zeitfahren/Reglement.pdf) aufme
 
 <a href="https://portal.run-timing.de/529/registration" class="btn btn--primary">Hier gehts zur Anmeldung!</a>
 
+# Lageplan
+![](/assets/images/zeitfahren/lageplan.png)
+
 ## Sponsoren
 Wir bedanken uns ganz herzlich bei den folgenden Sponsoren, die unser Event unterstützen!
 
