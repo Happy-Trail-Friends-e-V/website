@@ -26,10 +26,9 @@ Im Anschluss und rund um das Kohlensiepen Race findet das Sommerfest und die Aft
 Bitte lies dir das [Reglement](/assets/documents/zeitfahren/Reglement.pdf) aufmerksam durch. Mit der Anmeldung akzeptierst du die darin befindlichen Bedingungen. Du **musst** außerdem die [Verzichtserklärung](/assets/documents/zeitfahren/Verzichtserklärung.pdf) am Tag des Rennens unterschrieben mitbringen. Ansonsten ist eine Teilnahme am Rennen nicht möglich. Kinder und Jugendliche unter 18 Jahren müssen außerdem eine [Einverständniserklärung Sorge- oder Erziehungsberechtiger](/assets/documents/zeitfahren/Einverständniserklärung%20Sorge-%20oder%20Erziehungsberechtigter.pdf) mitbringen.
 
 ## Anmeldung
-
 <a href="https://portal.run-timing.de/529/registration" class="btn btn--primary">Hier gehts zur Anmeldung!</a>
 
-# Lageplan
+## Lageplan
 ![](/assets/images/zeitfahren/lageplan.png)
 
 ## Sponsoren
