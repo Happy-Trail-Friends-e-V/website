@@ -11,6 +11,10 @@ sidebar:
 ### Bike-Components
 Wir sind Partner von Bike-Components. Jedes Mitglied bekommt 5% Rabatt auf jede Bestellung. Klicke [hier](/bike-components), um mehr zu erfahren. Beachte jedoch, dass dieser erst mit Beginn des nächsten Monats verfügbar wird.
 
+### Amazon Smile
+Du kannst unseren Verein ganz simpel mit jeder Amazon-Bestellung unterstützen. Für dich fallen keine Mehrkosten an, allerdings bekommen wir im Hintergrund eine Spende von Amazon. Gehe daher auf [Amazon Smile](https://smile.amazon.de/) und wähle dort den Happy Trail Friends e.V. als zu unterstützende Organisation aus.
+![](/assets/images/amazon-smile.png)
+
 ### Metal Motion Bikes
 Wir werden außerdem von dem in Witten ansässigen Fahrradladen [Metal Motion Bikes](https://metalmotionbikes.de/) unterstützt. Jedes Mitglied bekommt 10% auf alles. Bitte sagt vor Ort einfach, dass ihr dem Verein angehört. Beachte jedoch, dass dieser erst mit Beginn des nächsten Monats verfügbar wird.
 
@@ -19,6 +23,7 @@ Wenn du News ganz einfach bekommen möchtest, kannst du unserer WhatsApp-Gruppe 
 
 ### Meet & Ride-Gruppe
 Wenn du dich mit anderen Mitgliedern für eine Runde zuammenschließen möchtest, ist die folgende [WhatsApp-Gruppe das richtige für dich](https://chat.whatsapp.com/IDxSEOfp7J45Q6qJj36n5l)
+
 ### Bikemarkt
 Wir haben innerhalb des Vereins einen kleinen Bikemarkt über WhatsApp eröffnet. Möchtest du etwas kaufen oder verkaufen, schreib in die Gruppe. Vielleicht findet sich ja jemand im direkten Umkreis. Und das ganze, ohne das übliche ebay-Misstrauen! [Hier gehts zur Gruppe](https://chat.whatsapp.com/KCGLxBOdZJNIgZ8s7CnpjJ)
 
