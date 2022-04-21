@@ -47,6 +47,8 @@ Wir bedanken uns ganz herzlich bei den folgenden Sponsoren, die unser Event unte
 
 ![](/assets/images/zeitfahren/ahe-logo.png)
 
+![](/assets/images/zeitfahren/logo-discarvery.png)
+
 ## Wichtige Dokumente
 * [Reglement](/assets/documents/zeitfahren/Reglement.pdf)
 * [Verzichtserklärung](/assets/documents/zeitfahren/Verzichtserklärung.pdf)
