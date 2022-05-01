@@ -35,6 +35,6 @@ tags:
 {: .notice--danger}
 
 Du hast Interesse und möchtest unserem Verein beitreten?
-<a href="https://mitgliedsantrag.htfev.de" class="btn btn--primary">Mitglied werden!</a>
+<a href="https://one.campai.com/f/yWd6b7wk_1Uy" class="btn btn--primary">Mitglied werden!</a>
 
 *Die Satzung, sowie die Beitragsordnung und Jugendvereinbarung findest du im Bereich [Downloads](/downloads).*
