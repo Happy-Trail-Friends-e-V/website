@@ -22,7 +22,7 @@ tags:
 * [Trailbauregeln](/assets/documents/Trailbauregeln.pdf) *Stand 07.06.2021*
 
 ## Mitgliederversammlungen
-* [Tagesordnung 2022](/assets/documents/tagesordnungen/tagesordnung-mv-2022.pdf)
+* [Protokoll MV 2022](/assets/documents/protokolle/protokoll-mv-2022.pdf)
 * [Protokoll MV 2021](/assets/documents/protokolle/protokoll-mv-2021.pdf)
 * [Protokoll MV 2020](/assets/documents/protokolle/protokoll-mv-2020.pdf)
 * [Protokoll MV 2019](/assets/documents/protokolle/protokoll-mv-2019.pdf)
