@@ -30,6 +30,7 @@ Die Anmeldung ist mittlerweile geschlossen. Alle 100 Startplätze sind vergeben!
 {: .notice--danger}
 
 <a href="https://portal.run-timing.de/529/participiants" class="btn btn--primary">Teilnehmerliste</a>
+<a href="https://portal.run-timing.de/529/results" class="btn btn--primary">Ergebnisse</a>
 
 ## Lageplan
 ![](/assets/images/zeitfahren/lageplan.png)
