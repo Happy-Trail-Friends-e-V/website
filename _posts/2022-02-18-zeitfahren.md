@@ -25,12 +25,22 @@ Im Anschluss und rund um das Kohlensiepen Race findet das Sommerfest und die Aft
 
 Bitte lies dir das [Reglement](/assets/documents/zeitfahren/Reglement.pdf) aufmerksam durch. Mit der Anmeldung akzeptierst du die darin befindlichen Bedingungen. Du **musst** außerdem die [Verzichtserklärung](/assets/documents/zeitfahren/Verzichtserklärung.pdf) am Tag des Rennens unterschrieben mitbringen. Ansonsten ist eine Teilnahme am Rennen nicht möglich. Kinder und Jugendliche unter 18 Jahren müssen außerdem eine [Einverständniserklärung Sorge- oder Erziehungsberechtiger](/assets/documents/zeitfahren/Einverständniserklärung%20Sorge-%20oder%20Erziehungsberechtigter.pdf) mitbringen.
 
+## Ergebnisse
+Hier findest du die Ergebnisse!
+
+<a href="https://portal.run-timing.de/529/results" class="btn btn--primary">Ergebnisse</a>
+
+## Fotos
+Hier sind die Fotos der unterschiedlichen Fotografen zu finden. Du darfst die Fotos gerne herunterladen und posten. Beachte jedoch, dass du den jeweiligen Fotografen und @happy_trail_friends markierst!
+
+<a href="https://adobe.ly/3spHhBZ" class="btn btn--primary">Fotos @consti.snaps.photos</a>
+<a href="https://adobe.ly/39A70B5" class="btn btn--primary">Fotos Christopher Sommer</a>
+
 ## Anmeldung
 Die Anmeldung ist mittlerweile geschlossen. Alle 100 Startplätze sind vergeben!
 {: .notice--danger}
 
 <a href="https://portal.run-timing.de/529/participiants" class="btn btn--primary">Teilnehmerliste</a>
-<a href="https://portal.run-timing.de/529/results" class="btn btn--primary">Ergebnisse</a>
 
 ## Lageplan
 ![](/assets/images/zeitfahren/lageplan.png)
