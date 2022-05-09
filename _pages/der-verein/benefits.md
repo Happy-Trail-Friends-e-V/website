@@ -12,8 +12,7 @@ sidebar:
 Wir werden von dem in Witten ansässigen Fahrradladen [Metal Motion Bikes](https://metalmotionbikes.de/) unterstützt. Jedes Mitglied bekommt 10% auf das gesamte Sortiment. Bitte sagt vor Ort einfach, dass ihr dem Verein angehört. Beachte jedoch, dass der Rabatt erst mit Beginn des nächsten Monats verfügbar wird.
 
 ### FitX
-Mit aktuell 95 Studios ist FitX eine der größten Fitnessstudioketten in Deutschland. Vereinsmitglieder bekommen einen rabattierten monatlichen Beitrag und wenn sie sich neu anmelden entfällt sogar die komplette Anmeldegebühr. Vorhandene Verträge lassen sich natürlich umschreiben. Beachte jedoch, dass der Rabatt erst mit Beginn des nächsten Monats verfügbar wird.
-Der Rabattcode kommt bald!
+Mit aktuell 95 Studios ist FitX eine der größten Fitnessstudioketten in Deutschland. Vereinsmitglieder bekommen einen rabattierten monatlichen Beitrag und wenn sie sich neu anmelden entfällt sogar die komplette Anmeldegebühr. Vorhandene Verträge lassen sich natürlich umschreiben. Beachte jedoch, dass der Rabatt erst mit Beginn des nächsten Monats verfügbar wird. Den Rabattcode kannst du [hier beantragen](https://one.campai.com/f/mSDk9qCHAVUZ).
 
 ### Bike-Components
 Wir sind Partner von Bike-Components. Jedes Mitglied bekommt 5% Rabatt auf jede Bestellung. Klicke [hier](/bike-components), um mehr zu erfahren. Beachte jedoch, dass der Rabatt erst mit Beginn des nächsten Monats verfügbar wird.
