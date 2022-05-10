@@ -32,10 +32,9 @@ Hier findest du die Ergebnisse!
 
 ## Fotos
 Hier sind die Fotos der unterschiedlichen Fotografen zu finden. Du darfst die Fotos gerne herunterladen und posten. Beachte jedoch, dass du den jeweiligen Fotografen und @happy_trail_friends markierst!
+Danke an @tina_plopp, @sarahkorzak.fotografie, Christopher Sommer und @consti.snaps.photos
 
-<a href="https://adobe.ly/3spHhBZ" class="btn btn--primary">Fotos @consti.snaps.photos</a>
-<a href="https://adobe.ly/39A70B5" class="btn btn--primary">Fotos Christopher Sommer</a>
-<a href="https://sarahkfotografie52.pixieset.com/happytrailfriendszeitrennen/" class="btn btn--primary">Fotos @sarahkorzak.fotografie</a>
+<a href="https://adobe.ly/3spHhBZ" class="btn btn--primary">Fotos</a>
 
 ## Anmeldung
 Die Anmeldung ist mittlerweile geschlossen. Alle 100 Startplätze sind vergeben!
