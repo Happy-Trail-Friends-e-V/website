@@ -32,7 +32,7 @@ Hier findest du die Ergebnisse!
 
 ## Fotos
 Hier sind die Fotos der unterschiedlichen Fotografen zu finden. Du darfst die Fotos gerne herunterladen und posten. Beachte jedoch, dass du den jeweiligen Fotografen und @happy_trail_friends markierst!
-Danke an @tina_plopp, @sarahkorzak.fotografie, Christopher Sommer und @consti.snaps.photos
+Danke an `@tina_plopp`, `@sarahkorzak.fotografie`, `Christopher Sommer` und `@consti.snaps.photos`
 
 <a href="https://adobe.ly/3spHhBZ" class="btn btn--primary">Fotos</a>
 
