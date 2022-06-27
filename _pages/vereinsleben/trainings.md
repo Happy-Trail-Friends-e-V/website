@@ -14,6 +14,6 @@ tags:
 ---
 
 ## Kinder- und Jugendtraining
-Nach der Winterpause findet das Kindertraining wieder statt!
+Nach der Sommerpause findet das Kindertraining wieder statt!
 
 Mehr Infos bald hier!
