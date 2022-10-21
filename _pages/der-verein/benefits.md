@@ -17,8 +17,8 @@ Mit aktuell 95 Studios ist FitX eine der größten Fitnessstudioketten in Deutsc
 ### Bike-Components
 Wir sind Partner von Bike-Components. Jedes Mitglied bekommt 5% Rabatt auf jede Bestellung. Klicke [hier](/bike-components), um mehr zu erfahren. Beachte jedoch, dass der Rabatt erst mit Beginn des nächsten Monats verfügbar wird.
 
-### Trikots
-Kürzlich haben wir Trikots für unsere Vereinsmitglieder bestellt. Es sind noch ein paar übrig. Wenn du Interesse hast, kannst du dich gerne unter constantin@htfev.de melden!
+### Vereinsklammotten
+Wenn du Vereinsklammotten haben willst, schau doch mal [hier](https://www.instagram.com/stories/highlights/17966610712742320/). Wenn dir etwas gefällt, kannst du [https://form.campai.com/LuVWnYzNceMP](hier eine Bestellung aufgeben).
 
 ### Amazon Smile
 Du kannst unseren Verein ganz simpel mit jeder Amazon-Bestellung unterstützen. Für dich fallen keine Mehrkosten an, allerdings bekommen wir im Hintergrund eine Spende von Amazon. Gehe auf [Amazon Smile](https://smile.amazon.de/) und wähle dort den Happy Trail Friends e.V. als zu unterstützende Organisation aus. Mehr findest du dazu [hier](https://www.happytrailfriends.de/amazon-smile/).
