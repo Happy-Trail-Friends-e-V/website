@@ -12,6 +12,7 @@ E-Mail: [vorstand@htfev.de](mailto:vorstand@htfev.de)
 
 Vorstand:
 * **1. Vorsitzender:** Thorsten Rudolph
+* **2. Vorsitzender:** Henrik Brinkmann
 * **Schatzmeister:** Jens Roos
 
 Inhaltlich verantwortlich
